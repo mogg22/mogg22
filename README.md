@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img scr="https://media.tenor.com/oeLDai4TmUIAAAAd/random-rocks.gif">
+
 <!--
 **mogg22/mogg22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
