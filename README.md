@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img scr="https://static1.cbrimages.com/wordpress/wp-content/uploads/2022/04/everything-everywhere-all-at-once-rock.jpg">
+<img scr="https://user-images.githubusercontent.com/126389940/221411854-71e708dc-3ff6-4ac9-8773-dc51e9f55ea2.gif">
 
 <!--
 **mogg22/mogg22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
