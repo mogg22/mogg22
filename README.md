@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img scr="https://tenor.com/ko/view/random-rocks-a24-stones-googly-eyes-gif-25810622">
+<img scr="https://static1.cbrimages.com/wordpress/wp-content/uploads/2022/04/everything-everywhere-all-at-once-rock.jpg">
 
 <!--
 **mogg22/mogg22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
