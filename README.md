@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-<img scr="https://user-images.githubusercontent.com/126389940/221411967-84273cc7-0402-4a7a-b4ee-ff57638866ab.gif">
+![random-rocks](https://user-images.githubusercontent.com/126389940/221411967-84273cc7-0402-4a7a-b4ee-ff57638866ab.gif)
+
 
 <!--
 **mogg22/mogg22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
