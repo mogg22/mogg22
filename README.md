@@ -19,20 +19,20 @@
 <br>
 
 ## Skill
-#🎈 Language  <br><br>
+🎈 Language  <br><br>
 <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <br>
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
 <br>
 
-#🍀 study... <br><br>
+   study... <br><br>
          <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
 
 <br>
 
-#🍰 Other <br><br>
+🍰 Other <br><br>
     <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/p5.js-%23ED225D.svg?&style=for-the-badge&logo=p5.js&logoColor=white" /> <br>
 
-#🍀 study... <br><br>
+   study... <br><br>
          <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white">
 
   
