@@ -13,7 +13,7 @@
 🏃 <a href="https://github.com/toyprj-3/test_1.git">2023 덕성 멋쟁이사자처럼 여름방학 토이프로젝트</a> <br>
 🏃 <a href="https://github.com/2023-HERETHON/2023-Herethon-6">2023 여기톤 : HERETHON</a> <br>
 🏃 <a href="https://github.com/mogg22/Helpkiosk">2023 멋쟁이사자처럼 중앙 해커톤</a> <br>
-🏃 2023 덕성 멋쟁이사자처럼 2학기 프로젝트 <br>
+🏃 <a href="https://github.com/likelion-2023-2/Advent_calender">2023 덕성 멋쟁이사자처럼 2학기 프로젝트</a> <br>
 <br>
 
 ## Study
