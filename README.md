@@ -15,6 +15,7 @@
 🏃 <a href="https://github.com/mogg22/Helpkiosk">2023 멋쟁이사자처럼 중앙 해커톤</a> <br>
 🏃 <a href="https://github.com/mogg22/Advent_calender">2023 덕성 멋쟁이사자처럼 2학기 프로젝트</a> <br>
 🏃 <a href="https://github.com/mogg22/weather_diary">2023 인터넷프로그래밍 기말 프로젝트</a> <br>
+🏃 <a href="https://github.com/Amimon22/Applymajor">2023 ICAN MEMBERSHIP 프로젝트</a> <br>
 <br>
 
 ## Study
